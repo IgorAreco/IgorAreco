@@ -1,19 +1,19 @@
 <h2 align="center">Hello There :space_invader:</h2>
 
-##### I'm Igor Areco, a Software Developer based in Canada.
+#### I'm Igor Areco, a Software Developer based in Canada.
 
-##### I worked about half my time as a Back-End Developer and half as a Full-Stack Developer.
+#### I worked about half my time as a Back-End Developer and half as a Full-Stack Developer.
 
-##### Detail-oriented and highly determined person, I approach problems analytically, 
-##### think beyond obvious solutions, and care about shipping software that works and keeps working.
+#### Detail-oriented and highly determined person, I approach problems analytically, 
+#### think beyond obvious solutions, and care about shipping software that works and keeps working.
 
 <h2 align="center"></h2>
 
 <h3>💻 Tools & Techs</h3>
 
-##### - Ruby on Rails, StimulusJS, PostgreSQL, MySQL.
-##### - React, Tailwind, Bootstrap.
-##### - Rspec, Cypress, Jest, Selenium, Capybara.
+#### - Ruby on Rails, StimulusJS, PostgreSQL, MySQL.
+#### - React, Tailwind, Bootstrap.
+#### - Rspec, Cypress, Jest, Selenium, Capybara.
 
 <h2 align="center"></h2>
 
