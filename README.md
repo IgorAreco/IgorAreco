@@ -11,7 +11,7 @@
 
 <h3>💻 Tools & Techs</h3>
 
-##### - Ruby on Rails, StimulusJS, SQL Database (PostgreSQL and MySQL).
+##### - Ruby on Rails, StimulusJS, PostgreSQL, MySQL.
 ##### - React, Tailwind, Bootstrap.
 ##### - Rspec, Cypress, Jest, Selenium, Capybara.
 
